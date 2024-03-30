@@ -1,0 +1,9 @@
+/db.sqlite3
+/.vscode
+/django-ldap-debug.log
+*/logo
+*/favicon
+*/logo.png
+media/admin-interface/logo/logo.png
+*/__pycache__
+kkm/migrations
